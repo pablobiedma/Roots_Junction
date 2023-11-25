@@ -1,0 +1,42 @@
+[
+  {
+    "price_unit" : "$/pound",
+    "ss_unit" : "grams",
+    "vehiclename": "Bus",
+    "grams_co2_by_vehicle_per_km": "132.34",
+    "fuel":"Diesel",
+    "average_consumption_liter/100km":"5"
+  },
+  {
+    "price_unit" : "$/pound",
+    "ss_unit" : "grams",
+    "vehiclename": "metro",
+    "grams_co2_by_vehicle_per_km": "65.324",
+    "fuel":"Electric_wires",
+    "average_consumption_liter/100km":"10"
+  },
+  {
+    "price_unit" : "$/pound",
+    "ss_unit" : "grams",
+    "vehiclename": "motorbike",
+    "grams_co2_by_vehicle_per_km": "95.543",
+    "fuel":"Petrol",
+    "average_consumption_liter/100km":"5"
+  },
+  {
+    "price_unit" : "$/pound",
+    "ss_unit" : "grams",
+    "vehiclename": "bike",
+    "grams_co2_by_vehicle_per_km": "0",
+    "fuel":"none",
+    "average_consumption_liter/100km":"0"
+  },
+  {
+    "price_unit" : "$/pound",
+    "ss_unit" : "grams",
+    "vehiclename": "car",
+    "grams_co2_by_vehicle_per_km": "102.521",
+    "fuel":"LPG",
+    "average_consumption_liter/100km":"5"
+  }
+]

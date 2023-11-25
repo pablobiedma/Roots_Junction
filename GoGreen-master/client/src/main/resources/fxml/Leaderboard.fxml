@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" style="-fx-background-color: #fff;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="groupxii.client.controllers.LeaderboardController">
+   <children>
+      <Pane prefHeight="127.0" prefWidth="904.0" style="-fx-background-color: #2B8E00;">
+         <children>
+            <ImageView fitHeight="103.0" fitWidth="120.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/gogreen logo groter.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+            <Label alignment="CENTER" layoutX="161.0" layoutY="50.0" prefHeight="23.0" prefWidth="173.0" text="For a better planet" textFill="WHITE">
+               <font>
+                  <Font name="Segoe UI" size="18.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="56.0" fitWidth="52.0" layoutX="799.0" layoutY="35.0" onMouseClicked="#btnBack" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/icons8-home-64.png" />
+               </image>
+            </ImageView>
+            <Label alignment="CENTER" layoutX="144.0" layoutY="64.0" prefHeight="23.0" prefWidth="206.0" text="The change starts with you!" textFill="WHITE">
+               <font>
+                  <Font name="Segoe UI" size="12.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane layoutY="125.0" prefHeight="534.0" prefWidth="904.0">
+         <children>
+            <ListView fx:id="overallLeaderboard" layoutX="14.0" layoutY="71.0" prefHeight="403.0" prefWidth="419.0" style="-fx-font-size: 14px; -fx-cell-size: 15px; -fx-font-weight: bold" />
+            <ListView fx:id="friendsLeaderboard" layoutX="471.0" layoutY="71.0" prefHeight="403.0" prefWidth="419.0" style="-fx-font-size: 14px; -fx-cell-size: 15px; -fx-font-weight: bold" />
+            <Text layoutX="32.0" layoutY="50.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Overall Leaderboard" textAlignment="CENTER">
+               <font>
+                  <Font name="System Bold" size="40.0" />
+               </font>
+            </Text>
+            <Text layoutX="574.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Friends List" textAlignment="CENTER">
+               <font>
+                  <Font name="System Bold" size="40.0" />
+               </font>
+            </Text>
+            <Text fx:id="addedFriend" fill="#ff2525" layoutX="32.0" layoutY="517.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER">
+               <font>
+                  <Font name="System Bold" size="40.0" />
+               </font>
+            </Text>
+         </children></Pane>
+   </children>
+</AnchorPane>

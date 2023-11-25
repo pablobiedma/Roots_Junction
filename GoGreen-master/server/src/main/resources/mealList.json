@@ -1,0 +1,1153 @@
+[ {
+  "price_unit" : "$/pound",
+  "price_1997" : "1.55",
+  "grams_co2e_per_serving" : "166.11171139385652",
+  "serving_size" : "30.0",
+  "grams_co2e_per_kcal" : "0.9657657639177705",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.10253809345299786",
+  "calories_per_serving" : "172.0",
+  "category" : "Nut/Seed/Legume",
+  "food" : "ALMONDS"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "22.9",
+  "grams_co2e_per_serving" : "106.72766154456667",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "1.3340957693070834",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.07068057055931568",
+  "calories_per_serving" : "80.0",
+  "category" : "Fruit",
+  "food" : "APPLES"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "332.0",
+  "grams_co2e_per_serving" : "77.38296324064477",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "1.1549696006066383",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.05124699552360581",
+  "calories_per_serving" : "67.0",
+  "category" : "Fruit",
+  "food" : "APRICOTS"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "78.2",
+  "grams_co2e_per_serving" : "208.1355707953869",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "5.203389269884672",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.14657434563055416",
+  "calories_per_serving" : "40.0",
+  "category" : "Vegetable",
+  "food" : "ARTICHOKES (California)"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "111.0",
+  "grams_co2e_per_serving" : "295.4354010011246",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "17.37855300006615",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.20805309929656662",
+  "calories_per_serving" : "17.0",
+  "category" : "Vegetable",
+  "food" : "ASPARAGUS"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "1360.0",
+  "grams_co2e_per_serving" : "67.92652539196013",
+  "serving_size" : "30.0",
+  "grams_co2e_per_kcal" : "1.415135945665836",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.04498445390196035",
+  "calories_per_serving" : "48.0",
+  "category" : "Vegetable",
+  "food" : "AVOCADOS"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "0.88",
+  "grams_co2e_per_serving" : "738.4012877902488",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "3.6627048005468694",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.4890074753577807",
+  "calories_per_serving" : "112.0",
+  "category" : "Fruit",
+  "food" : "BANANAS"
+}
+, {
+  "price_unit" : "$/bushel",
+  "price_1997" : "2.4",
+  "grams_co2e_per_serving" : "31.307195307504017",
+  "serving_size" : "45.0",
+  "grams_co2e_per_kcal" : "0.19690059941826427",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.0049615206509515085",
+  "calories_per_serving" : "159.0",
+  "category" : "Grain",
+  "food" : "BARLEY"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "63.28",
+  "grams_co2e_per_serving" : "978.3879000000001",
+  "serving_size" : "4.0",
+  "grams_co2e_per_kcal" : "1.8456666666666668",
+  "ss_unit" : "ounce",
+  "price_per_serving" : "0.22543500000000002",
+  "calories_per_serving" : "372.0",
+  "category" : "Meat",
+  "food" : "BEEF"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "30.0",
+  "grams_co2e_per_serving" : "79.84740567597963",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "4.696906216234096",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.05623056737745044",
+  "calories_per_serving" : "17.0",
+  "category" : "Vegetable",
+  "food" : "BELL PEPPERS"
+}
+, {
+  "price_unit" : "Cents/pound",
+  "price_1997" : "206.9",
+  "grams_co2e_per_serving" : "2.4987318794240223",
+  "serving_size" : "0.7",
+  "grams_co2e_per_kcal" : "1.2493659397120112",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.002554940572008203",
+  "calories_per_serving" : "2.0",
+  "category" : "Other",
+  "food" : "BLACK AND WHITE PEPPER"
+}
+, {
+  "price_unit" : "$/short ton",
+  "price_1997" : "58.16",
+  "grams_co2e_per_serving" : "2.0024887012334087",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "0.03452566726264498",
+  "ss_unit" : "tbsp",
+  "price_per_serving" : "0.001059517831340428",
+  "calories_per_serving" : "58.0",
+  "category" : "Other",
+  "food" : "BLACKSTRAP MOLASSES (New Orleans)"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "0.833",
+  "grams_co2e_per_serving" : "388.3133034907053",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "4.853916293633817",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.25716112813953995",
+  "calories_per_serving" : "80.0",
+  "category" : "Fruit",
+  "food" : "BLUEBERRIES"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "29.1",
+  "grams_co2e_per_serving" : "77.45198350570024",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "2.670758051920698",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.054543650356126926",
+  "calories_per_serving" : "29.0",
+  "category" : "Vegetable",
+  "food" : "BROCCOLI"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "0.3738",
+  "grams_co2e_per_serving" : "285.4254669342213",
+  "serving_size" : "114.0",
+  "grams_co2e_per_kcal" : "0.8649256573764281",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.11745903989062603",
+  "calories_per_serving" : "264.0",
+  "category" : "Meat",
+  "food" : "BROILER CHICKEN"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "42.5",
+  "grams_co2e_per_serving" : "113.11715804097113",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "3.0572204875938143",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.07965997045138812",
+  "calories_per_serving" : "37.0",
+  "category" : "Vegetable",
+  "food" : "BRUSSEL SPROUTS (California)"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "107.1",
+  "grams_co2e_per_serving" : "79.47636902722019",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "0.7947636902722018",
+  "ss_unit" : "tbsp",
+  "price_per_serving" : "0.02539181119080517",
+  "calories_per_serving" : "100.0",
+  "category" : "Oil",
+  "food" : "BUTTER"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "10.4",
+  "grams_co2e_per_serving" : "27.680433967672936",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "1.3181159032225207",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.019493263357516152",
+  "calories_per_serving" : "21.0",
+  "category" : "Vegetable",
+  "food" : "CABBAGE"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "17.7",
+  "grams_co2e_per_serving" : "77.59289069218724",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "1.6165185560872342",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.054642880769145946",
+  "calories_per_serving" : "48.0",
+  "category" : "Fruit",
+  "food" : "CANTALOUPE"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "13.1",
+  "grams_co2e_per_serving" : "34.8667004785111",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "0.9961914422431742",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.024554014421486692",
+  "calories_per_serving" : "35.0",
+  "category" : "Vegetable",
+  "food" : "CARROTS"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "31.2",
+  "grams_co2e_per_serving" : "83.0413019030188",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "3.9543477096675623",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.05847979007254846",
+  "calories_per_serving" : "21.0",
+  "category" : "Vegetable",
+  "food" : "CAULIFLOWER"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "15.1",
+  "grams_co2e_per_serving" : "40.18986085690974",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "2.8707043469221243",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.02830271891331672",
+  "calories_per_serving" : "14.0",
+  "category" : "Vegetable",
+  "food" : "CELERY"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "132.4",
+  "grams_co2e_per_serving" : "250.23600000000005",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "2.406115384615385",
+  "ss_unit" : "ounce",
+  "price_per_serving" : "0.06620000000000001",
+  "calories_per_serving" : "104.0",
+  "category" : "Dairy",
+  "food" : "CHEESE"
+}
+, {
+  "price_unit" : "$/metric ton",
+  "price_1997" : "2305.0",
+  "grams_co2e_per_serving" : "30.606096386017892",
+  "serving_size" : "15.0",
+  "grams_co2e_per_kcal" : "0.3221694356422936",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.03458315975821231",
+  "calories_per_serving" : "95.0",
+  "category" : "Other",
+  "food" : "CHOCOLATE LIQUOR (Brazil)"
+}
+, {
+  "price_unit" : "$/metric ton",
+  "price_1997" : "1641.0",
+  "grams_co2e_per_serving" : "7.263138708525722",
+  "serving_size" : "5.0",
+  "grams_co2e_per_kcal" : "1.4526277417051445",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.008206936393814375",
+  "calories_per_serving" : "32.0",
+  "category" : "Nut/Seed/Legume",
+  "food" : "COCOA BEANS (Brazil)"
+}
+, {
+  "price_unit" : "$/metric ton",
+  "price_1997" : "4021.0",
+  "grams_co2e_per_serving" : "47.259148832834086",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "0.3971357044775974",
+  "ss_unit" : "tbsp",
+  "price_per_serving" : "0.053400168172693885",
+  "calories_per_serving" : "119.0",
+  "category" : "Other",
+  "food" : "COCOA BUTTER"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "38.59",
+  "grams_co2e_per_serving" : "24.962315161632635",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "0.21519237208303996",
+  "ss_unit" : "tbsp",
+  "price_per_serving" : "0.009279671063803953",
+  "calories_per_serving" : "116.0",
+  "category" : "Oil",
+  "food" : "COCONUT OIL"
+}
+, {
+  "price_unit" : "$/bushel",
+  "price_1997" : "2.6",
+  "grams_co2e_per_serving" : "145.8311111111111",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "1.893910533910534",
+  "ss_unit" : "ear/half cup kernels",
+  "price_per_serving" : "0.023111111111111114",
+  "calories_per_serving" : "77.0",
+  "category" : "Vegetable",
+  "food" : "CORN"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "25.67",
+  "grams_co2e_per_serving" : "12.19573031634595",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "0.1024851287087895",
+  "ss_unit" : "tbsp",
+  "price_per_serving" : "0.006159459755730278",
+  "calories_per_serving" : "119.0",
+  "category" : "Oil",
+  "food" : "CORN OIL"
+}
+, {
+  "price_unit" : "$/BARREL",
+  "price_1997" : "65.9",
+  "grams_co2e_per_serving" : "120.68612317801937",
+  "serving_size" : "55.0",
+  "grams_co2e_per_kcal" : "4.64177396838536",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.07992458488610554",
+  "calories_per_serving" : "26.0",
+  "category" : "Fruit",
+  "food" : "CRANBERRIES"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "16.9",
+  "grams_co2e_per_serving" : "44.98070519746852",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "3.4600542459591166",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.03167655295596374",
+  "calories_per_serving" : "13.0",
+  "category" : "Vegetable",
+  "food" : "CUCUMBERS"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "17.7",
+  "grams_co2e_per_serving" : "86.19914441332773",
+  "serving_size" : "35.0",
+  "grams_co2e_per_kcal" : "0.7495577775071977",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.013660720192286487",
+  "calories_per_serving" : "115.0",
+  "category" : "Nut/Seed/Legume",
+  "food" : "DRY BEANS"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "23.8",
+  "grams_co2e_per_serving" : "63.34560850294384",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "3.0164575477592304",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.04460958345277735",
+  "calories_per_serving" : "21.0",
+  "category" : "Vegetable",
+  "food" : "EGGPLANT"
+}
+, {
+  "price_unit" : "Cents/Dozen",
+  "price_1997" : "58.7",
+  "grams_co2e_per_serving" : "118.8675",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "1.6741901408450706",
+  "ss_unit" : "egg",
+  "price_per_serving" : "0.04891666666666667",
+  "calories_per_serving" : "71.0",
+  "category" : "Dairy",
+  "food" : "EGGS"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "250.0",
+  "grams_co2e_per_serving" : "58.270303645063834",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "0.5602913812025369",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.03858960506295618",
+  "calories_per_serving" : "104.0",
+  "category" : "Fruit",
+  "food" : "FIGS"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "0.712",
+  "grams_co2e_per_serving" : "413.84033348075735",
+  "serving_size" : "110.0",
+  "grams_co2e_per_kcal" : "2.069201667403787",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.32585853029980894",
+  "calories_per_serving" : "106.0",
+  "category" : "Meat",
+  "food" : "FISH"
+}
+, {
+  "price_unit" : "$/bushel",
+  "price_1997" : "5.75",
+  "grams_co2e_per_serving" : "17.751218328959844",
+  "serving_size" : "30.0",
+  "grams_co2e_per_kcal" : "0.1102560144655891",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.006339720831771372",
+  "calories_per_serving" : "161.0",
+  "category" : "Nut/Seed/Legume",
+  "food" : "FLAXSEED"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "47.1",
+  "grams_co2e_per_serving" : "44.24485655692518",
+  "serving_size" : "30.0",
+  "grams_co2e_per_kcal" : "1.028950152486632",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.031158349687975477",
+  "calories_per_serving" : "43.0",
+  "category" : "Vegetable",
+  "food" : "GARLIC (California)"
+}
+, {
+  "price_unit" : "$/BOX",
+  "price_1997" : "3.83",
+  "grams_co2e_per_serving" : "26.647792592309788",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "0.5921731687179953",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.017647544763119066",
+  "calories_per_serving" : "45.0",
+  "category" : "Fruit",
+  "food" : "GRAPEFRUIT"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "3.25",
+  "grams_co2e_per_serving" : "48.47916666666667",
+  "serving_size" : "0.016666666666666666",
+  "grams_co2e_per_kcal" : "24.239583333333336",
+  "ss_unit" : "th pound (http://www.ers.usda.gov/data/foodconsumption/FoodAvailDoc.htm)",
+  "price_per_serving" : "0.05416666666666667",
+  "calories_per_serving" : "2.0",
+  "category" : "Other",
+  "food" : "HAWAIIAN COFFEE"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "898.0",
+  "grams_co2e_per_serving" : "96.23762376237622",
+  "serving_size" : "30.0",
+  "grams_co2e_per_kcal" : "0.25459688826025456",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.059405940594059396",
+  "calories_per_serving" : "189.0",
+  "category" : "Nut/Seed/Legume",
+  "food" : "HAZELNUTS"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "75.2",
+  "grams_co2e_per_serving" : "46.3149352797195",
+  "serving_size" : "21.0",
+  "grams_co2e_per_kcal" : "0.7236708637456172",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.034823259608811656",
+  "calories_per_serving" : "64.0",
+  "category" : "Other",
+  "food" : "HONEY"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "18.9",
+  "grams_co2e_per_serving" : "82.85342565436943",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "1.6570685130873886",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.05834748285518974",
+  "calories_per_serving" : "50.0",
+  "category" : "Fruit",
+  "food" : "HONEYDEW"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "1.58",
+  "grams_co2e_per_serving" : "7.681515625",
+  "serving_size" : "0.03175",
+  "grams_co2e_per_kcal" : "0.06401263020833334",
+  "ss_unit" : "ounce",
+  "price_per_serving" : "0.0031353125",
+  "calories_per_serving" : "120.0",
+  "category" : "Other",
+  "food" : "HOPS"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "518.0",
+  "grams_co2e_per_serving" : "120.73606915257226",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "1.4204243429714383",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.0799576616904452",
+  "calories_per_serving" : "85.0",
+  "category" : "Fruit",
+  "food" : "KIWIS"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "90.3",
+  "grams_co2e_per_serving" : "1407.3968554984674",
+  "serving_size" : "114.0",
+  "grams_co2e_per_kcal" : "3.0883316578336273",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.32428498974619063",
+  "calories_per_serving" : "319.0",
+  "category" : "Meat",
+  "food" : "LAMB"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "23.39",
+  "grams_co2e_per_serving" : "7.999587681119053",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "0.0695616320097309",
+  "ss_unit" : "tbsp",
+  "price_per_serving" : "0.005594117259523813",
+  "calories_per_serving" : "115.0",
+  "category" : "Oil",
+  "food" : "LARD"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "17.3",
+  "grams_co2e_per_serving" : "46.04533727314825",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "3.541949021011404",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.032426293854329755",
+  "calories_per_serving" : "13.0",
+  "category" : "Vegetable",
+  "food" : "LETTUCE"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "33.0",
+  "grams_co2e_per_serving" : "160.7102692451873",
+  "serving_size" : "35.0",
+  "grams_co2e_per_kcal" : "1.3619514342812484",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.025469139341551077",
+  "calories_per_serving" : "118.0",
+  "category" : "Nut/Seed/Legume",
+  "food" : "LIMA BEANS (Georgia)"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "18.55",
+  "grams_co2e_per_serving" : "92.89927026609936",
+  "serving_size" : "45.0",
+  "grams_co2e_per_kcal" : "0.5734522855932059",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.014722546793359645",
+  "calories_per_serving" : "162.0",
+  "category" : "Grain",
+  "food" : "RICE (Louisiana)"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "0.75",
+  "grams_co2e_per_serving" : "221.42323566229877",
+  "serving_size" : "30.0",
+  "grams_co2e_per_kcal" : "0.373844811839137",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.13668100966808566",
+  "calories_per_serving" : "215.0",
+  "category" : "Nut/Seed/Legume",
+  "food" : "MACADAMIA NUTS"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "12.38",
+  "grams_co2e_per_serving" : "247.56133767078728",
+  "serving_size" : "8.0",
+  "grams_co2e_per_kcal" : "1.5869316517358159",
+  "ss_unit" : "fl. Oz.",
+  "price_per_serving" : "0.06637033181522448",
+  "calories_per_serving" : "156.0",
+  "category" : "Dairy",
+  "food" : "MILK elig. For fluid market"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "375.0",
+  "grams_co2e_per_serving" : "87.40545546759574",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "1.4097654107676734",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.05788440759443427",
+  "calories_per_serving" : "62.0",
+  "category" : "Fruit",
+  "food" : "NECTARINES"
+}
+, {
+  "price_unit" : "$/bushel",
+  "price_1997" : "1.6",
+  "grams_co2e_per_serving" : "31.307195307504024",
+  "serving_size" : "45.0",
+  "grams_co2e_per_kcal" : "0.20068714940707708",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.004961520650951509",
+  "calories_per_serving" : "156.0",
+  "category" : "Grain",
+  "food" : "OATS"
+}
+, {
+  "price_unit" : "$/metric ton",
+  "price_1997" : "2711.0",
+  "grams_co2e_per_serving" : "98.7848900927122",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "0.8301251268295143",
+  "ss_unit" : "tbsp",
+  "price_per_serving" : "0.03672300746940974",
+  "calories_per_serving" : "119.0",
+  "category" : "Oil",
+  "food" : "OLIVE OIL"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "642.0",
+  "grams_co2e_per_serving" : "16.032657831484705",
+  "serving_size" : "15.0",
+  "grams_co2e_per_kcal" : "0.7287571741583957",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.010617654193036228",
+  "calories_per_serving" : "22.0",
+  "category" : "Other",
+  "food" : "OLIVES"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "12.6",
+  "grams_co2e_per_serving" : "33.53591038391144",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "0.98635030540916",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.023616838298529185",
+  "calories_per_serving" : "34.0",
+  "category" : "Vegetable",
+  "food" : "ONIONS"
+}
+, {
+  "price_unit" : "$/BOX",
+  "price_1997" : "6.41",
+  "grams_co2e_per_serving" : "39.84134894558498",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "0.4527426016543748",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.026384999301711908",
+  "calories_per_serving" : "88.0",
+  "category" : "Fruit",
+  "food" : "ORANGES"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "27.49",
+  "grams_co2e_per_serving" : "17.608969701200323",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "0.1479745353042044",
+  "ss_unit" : "tbsp",
+  "price_per_serving" : "0.00654608539078079",
+  "calories_per_serving" : "119.0",
+  "category" : "Oil",
+  "food" : "PALM OIL"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "0.489",
+  "grams_co2e_per_serving" : "227.9534278594897",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "4.144607779263449",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.15096253500628457",
+  "calories_per_serving" : "55.0",
+  "category" : "Fruit",
+  "food" : "PAPAYAS"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "24.6",
+  "grams_co2e_per_serving" : "114.67595757348565",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "2.011858904797994",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.07594434276389778",
+  "calories_per_serving" : "57.0",
+  "category" : "Vegetable",
+  "food" : "PEACHES"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "0.261",
+  "grams_co2e_per_serving" : "72.93435356898719",
+  "serving_size" : "30.0",
+  "grams_co2e_per_kcal" : "0.2488348533530151",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.029769123905709058",
+  "calories_per_serving" : "170.0",
+  "category" : "Nut/Seed/Legume",
+  "food" : "PEANUTS"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "276.0",
+  "grams_co2e_per_serving" : "64.33041522415047",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "0.7942026570882774",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.04260292398950362",
+  "calories_per_serving" : "81.0",
+  "category" : "Fruit",
+  "food" : "PEARS"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "0.771",
+  "grams_co2e_per_serving" : "165.2543606253721",
+  "serving_size" : "30.0",
+  "grams_co2e_per_kcal" : "0.3991651222835075",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.10200886458356302",
+  "calories_per_serving" : "207.0",
+  "category" : "Nut/Seed/Legume",
+  "food" : "PECANS"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "13.2",
+  "grams_co2e_per_serving" : "285.2543606253721",
+  "serving_size" : "4.0",
+  "grams_co2e_per_kcal" : "95.08478687512404",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.11643035127566209",
+  "calories_per_serving" : "3.0",
+  "category" : "Other",
+  "food" : "PEPPERMINT"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "52.9",
+  "grams_co2e_per_serving" : "824.4883018368652",
+  "serving_size" : "114.0",
+  "grams_co2e_per_kcal" : "1.9432384218377292",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.1899742630960519",
+  "calories_per_serving" : "297.0",
+  "category" : "Meat",
+  "food" : "PIG"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "283.0",
+  "grams_co2e_per_serving" : "65.96198372621225",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "0.9423140532316037",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.04368343293126639",
+  "calories_per_serving" : "70.0",
+  "category" : "Fruit",
+  "food" : "PINEAPPLES"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "1.13",
+  "grams_co2e_per_serving" : "242.20159209684883",
+  "serving_size" : "30.0",
+  "grams_co2e_per_kcal" : "0.7251544673558348",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.14950715561533878",
+  "calories_per_serving" : "167.0",
+  "category" : "Nut/Seed/Legume",
+  "food" : "PISTACHIOS"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "312.0",
+  "grams_co2e_per_serving" : "72.72133894903966",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "1.1362709210787447",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.04815982711856931",
+  "calories_per_serving" : "64.0",
+  "category" : "Fruit",
+  "food" : "PLUMS"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "84.6",
+  "grams_co2e_per_serving" : "906.3224960050239",
+  "serving_size" : "114.0",
+  "grams_co2e_per_kcal" : "3.0515908956398112",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.20883006820392255",
+  "calories_per_serving" : "297.0",
+  "category" : "Meat",
+  "food" : "PORK"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "5.68",
+  "grams_co2e_per_serving" : "19.56418002602042",
+  "serving_size" : "110.0",
+  "grams_co2e_per_kcal" : "0.22487563248299333",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.013777591567620014",
+  "calories_per_serving" : "87.0",
+  "category" : "Vegetable",
+  "food" : "POTATOES"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "241.0",
+  "grams_co2e_per_serving" : "16.04930648966901",
+  "serving_size" : "40.0",
+  "grams_co2e_per_kcal" : "0.13374422074724177",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.010628679794482789",
+  "calories_per_serving" : "120.0",
+  "category" : "Fruit",
+  "food" : "RAISIN GRAPES"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "0.489",
+  "grams_co2e_per_serving" : "227.9534278594897",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "3.1226496967053383",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.15096253500628457",
+  "calories_per_serving" : "73.0",
+  "category" : "Fruit",
+  "food" : "RASPBERRIES"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "21.96",
+  "grams_co2e_per_serving" : "2.928064551687648",
+  "serving_size" : "4.0",
+  "grams_co2e_per_kcal" : "0.1952043034458432",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.001549240503538438",
+  "calories_per_serving" : "15.0",
+  "category" : "Other",
+  "food" : "RAW SUGAR"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "4.1",
+  "grams_co2e_per_serving" : "61.15833333333333",
+  "serving_size" : "0.016666666666666666",
+  "grams_co2e_per_kcal" : "30.579166666666666",
+  "ss_unit" : "portion of pound (http://www.ers.usda.gov/data/foodconsumption/FoodAvailDoc.htm)",
+  "price_per_serving" : "0.06833333333333333",
+  "calories_per_serving" : "2.0",
+  "category" : "Other",
+  "food" : "RETAIL COFFEE"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "41.3",
+  "grams_co2e_per_serving" : "109.92326181393194",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "4.227817762074306",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.0774107477562901",
+  "calories_per_serving" : "26.0",
+  "category" : "Vegetable",
+  "food" : "SNAP PEAS"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "25.84",
+  "grams_co2e_per_serving" : "15.440537930730398",
+  "serving_size" : "14.0",
+  "grams_co2e_per_kcal" : "0.12867114942275332",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.006380387574681983",
+  "calories_per_serving" : "120.0",
+  "category" : "Oil",
+  "food" : "SOYBEAN OIL"
+}
+, {
+  "price_unit" : "$/bushel",
+  "price_1997" : "6.5",
+  "grams_co2e_per_serving" : "23.41102707152675",
+  "serving_size" : "35.0",
+  "grams_co2e_per_kcal" : "0.4590397465005245",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.00836108109697384",
+  "calories_per_serving" : "51.0",
+  "category" : "Nut/Seed/Legume",
+  "food" : "SOYBEANS"
+}
+, {
+  "price_unit" : "$/pound",
+  "price_1997" : "12.0",
+  "grams_co2e_per_serving" : "259.32214602306556",
+  "serving_size" : "4.0",
+  "grams_co2e_per_kcal" : "86.44071534102186",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.10584577388696553",
+  "calories_per_serving" : "3.0",
+  "category" : "Other",
+  "food" : "SPEARMINT"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "30.8",
+  "grams_co2e_per_serving" : "81.97666982733908",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "4.098833491366954",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.05773004917418245",
+  "calories_per_serving" : "20.0",
+  "category" : "Vegetable",
+  "food" : "SPINACH"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "65.7",
+  "grams_co2e_per_serving" : "306.2687159584555",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "6.805971465743456",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.2028269642108977",
+  "calories_per_serving" : "45.0",
+  "category" : "Fruit",
+  "food" : "STRAWBERRIES"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "11.3",
+  "grams_co2e_per_serving" : "9.097338752189366",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "0.07336563509830134",
+  "ss_unit" : "tbsp",
+  "price_per_serving" : "0.0033819103167990207",
+  "calories_per_serving" : "124.0",
+  "category" : "Oil",
+  "food" : "SUNFLOWER OIL"
+}
+, {
+  "price_unit" : "$/metric ton",
+  "price_1997" : "497.0",
+  "grams_co2e_per_serving" : "14.519528892936538",
+  "serving_size" : "1.0",
+  "grams_co2e_per_kcal" : "0.12201284783980285",
+  "ss_unit" : "tbsp",
+  "price_per_serving" : "0.005397594383991278",
+  "calories_per_serving" : "119.0",
+  "category" : "Oil",
+  "food" : "SUNFLOWER OIL"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "1250.0",
+  "grams_co2e_per_serving" : "291.3515182253191",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "3.310812707105899",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.1929480253147809",
+  "calories_per_serving" : "88.0",
+  "category" : "Fruit",
+  "food" : "SWEET CHERRIES"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "17.6",
+  "grams_co2e_per_serving" : "46.84381132990805",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "0.6245841510654406",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.03298859952810426",
+  "calories_per_serving" : "75.0",
+  "category" : "Vegetable",
+  "food" : "SWEET CORN"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "15.8",
+  "grams_co2e_per_serving" : "54.421486692099066",
+  "serving_size" : "110.0",
+  "grams_co2e_per_kcal" : "0.5789519860861603",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.03832499062823878",
+  "calories_per_serving" : "94.0",
+  "category" : "Vegetable",
+  "food" : "SWEET POTATOES"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "447.0",
+  "grams_co2e_per_serving" : "104.18730291737413",
+  "serving_size" : "140.0",
+  "grams_co2e_per_kcal" : "1.0740959063646818",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.06899821385256565",
+  "calories_per_serving" : "97.0",
+  "category" : "Fruit",
+  "food" : "TABLE GRAPES"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "181.3",
+  "grams_co2e_per_serving" : "8.059732298396879",
+  "serving_size" : "0.9",
+  "grams_co2e_per_kcal" : "8.059732298396879",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.003598094776070035",
+  "calories_per_serving" : "1.0",
+  "category" : "Other",
+  "food" : "TOBACCO"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "33.0",
+  "grams_co2e_per_serving" : "87.83214624357758",
+  "serving_size" : "85.0",
+  "grams_co2e_per_kcal" : "5.489509140223599",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.06185362411519548",
+  "calories_per_serving" : "16.0",
+  "category" : "Vegetable",
+  "food" : "TOMATOES"
+}
+, {
+  "price_unit" : "Cents/Pound",
+  "price_1997" : "39.9",
+  "grams_co2e_per_serving" : "310.86838124999997",
+  "serving_size" : "4.0",
+  "grams_co2e_per_kcal" : "1.836306818181818",
+  "ss_unit" : "ounce",
+  "price_per_serving" : "0.12792937499999998",
+  "calories_per_serving" : "132.0",
+  "category" : "Meat",
+  "food" : "TURKEY"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "1310.0",
+  "grams_co2e_per_serving" : "155.99020926591544",
+  "serving_size" : "30.0",
+  "grams_co2e_per_kcal" : "0.3581407865799079",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.09629025263328114",
+  "calories_per_serving" : "196.0",
+  "category" : "Nut/Seed/Legume",
+  "food" : "WALNUTS"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "7.59",
+  "grams_co2e_per_serving" : "66.54576727160466",
+  "serving_size" : "280.0",
+  "grams_co2e_per_kcal" : "0.7922115151381507",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.04686321638845398",
+  "calories_per_serving" : "84.0",
+  "category" : "Fruit",
+  "food" : "WATERMELONS"
+}
+, {
+  "price_unit" : "$/bushel",
+  "price_1997" : "3.45",
+  "grams_co2e_per_serving" : "21.601964762177776",
+  "serving_size" : "45.0",
+  "grams_co2e_per_kcal" : "0.14118931217109656",
+  "ss_unit" : "grams",
+  "price_per_serving" : "0.003423449249156541",
+  "calories_per_serving" : "153.0",
+  "category" : "Grain",
+  "food" : "WHEAT"
+}
+, {
+  "price_unit" : "$/Cwt.",
+  "price_1997" : "11.89",
+  "grams_co2e_per_serving" : "21.017054400317534",
+  "serving_size" : "30.0",
+  "grams_co2e_per_kcal" : "0.19281701284694985",
+  "ss_unit" : "g",
+  "price_per_serving" : "0.0062925312575801",
+  "calories_per_serving" : "109.0",
+  "category" : "Grain",
+  "food" : "WHEAT FLOUR"
+}
+, {
+  "price_unit" : "$/oz",
+  "price_1997" : "0.2",
+  "grams_co2e_per_serving" : "47.733333333333334",
+  "serving_size" : "0.016666666666666666",
+  "grams_co2e_per_kcal" : "23.866666666666667",
+  "ss_unit" : "th pound (http://www.ers.usda.gov/data/foodconsumption/FoodAvailDoc.htm)",
+  "price_per_serving" : "0.05333333333333334",
+  "calories_per_serving" : "2.0",
+  "category" : "Other",
+  "food" : "WHOLESALE COFFEE"
+}
+, {
+  "price_unit" : "$/TON",
+  "price_1997" : "598.0",
+  "grams_co2e_per_serving" : "132.95533333333333",
+  "serving_size" : "0.6666666666666666",
+  "grams_co2e_per_kcal" : "1.0809376693766937",
+  "ss_unit" : "pounds",
+  "price_per_serving" : "0.19933333333333333",
+  "calories_per_serving" : "123.0",
+  "category" : "Other",
+  "food" : "WINE GRAPES"
+}
+ ]

@@ -1,0 +1,52 @@
+.button
+{
+-fx-background-color : #FFF;
+-fx-border-color: #2b8e00;
+-fx-text-fill: #2b8e00;
+}
+.button:hover
+{
+-fx-background-color : #3aaa00 ;
+-fx-text-fill:  #FFF;
+}
+.button:pressed
+{
+-fx-background-color : #2b8e00;
+-fx-text-fill: #FFF;
+}
+
+.button2
+{
+-fx-background-color : #2b8e00;
+-fx-border-color: #FFF;
+-fx-text-fill:  #FFF;
+}
+.button2:hover
+{
+-fx-background-color : #3aaa00;
+-fx-text-fill:   #FFF;
+}
+.button2:pressed
+{
+-fx-background-color : #2b8e00 ;
+-fx-text-fill: #FFF;
+}
+
+#redbutton
+{
+-fx-background-color : #e8131f;
+-fx-border-color: #FFF;
+-fx-text-fill:  #FFF;
+}
+
+#redbutton:hover
+{
+-fx-background-color : #f61e00;
+-fx-text-fill:  #FFF;
+}
+
+#redbutton:pressed
+{
+-fx-background-color : #e8131f;
+-fx-text-fill:  #FFF;
+}

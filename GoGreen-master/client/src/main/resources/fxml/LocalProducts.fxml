@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" style="-fx-background-color: #fff;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="groupxii.client.controllers.LocalProductsController">
+   <children>
+      <Pane prefHeight="127.0" prefWidth="904.0" style="-fx-background-color: #2B8E00;">
+         <children>
+            <ImageView fitHeight="103.0" fitWidth="120.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/gogreen logo groter.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+            <Label alignment="CENTER" layoutX="161.0" layoutY="50.0" prefHeight="23.0" prefWidth="173.0" text="For a better planet" textFill="WHITE">
+               <font>
+                  <Font name="Segoe UI" size="18.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="56.0" fitWidth="52.0" layoutX="799.0" layoutY="35.0" onMouseClicked="#btnBack" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/icons8-home-64.png" />
+               </image>
+            </ImageView>
+            <Label alignment="CENTER" layoutX="144.0" layoutY="64.0" prefHeight="23.0" prefWidth="206.0" text="The change starts with you!" textFill="WHITE">
+               <font>
+                  <Font name="Segoe UI" size="12.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane layoutY="125.0" prefHeight="534.0" prefWidth="904.0">
+         <children>
+            <ListView fx:id="localShops" layoutX="20.0" layoutY="14.0" prefHeight="206.0" prefWidth="865.0" style="-fx-font-size: 14px; -fx-cell-size: 15px; -fx-font-weight: bold" />
+            <Button fx:id="navigate" layoutX="20.0" layoutY="443.0" mnemonicParsing="false" onMouseClicked="#navigate" prefHeight="67.0" prefWidth="206.0" stylesheets="@../fullpackstyling.css" text="NAVIGATE TO SHOP" />
+            <Button id="redbutton" fx:id="getLocation" layoutX="350.0" layoutY="443.0" mnemonicParsing="false" onMouseClicked="#getLocation" prefHeight="67.0" prefWidth="206.0" stylesheets="@../fullpackstyling.css" text="SHOW LOCATION OF SHOP" />
+            <ImageView fx:id="mapsImage" fitHeight="186.0" fitWidth="865.0" layoutX="17.0" layoutY="227.0" pickOnBounds="true" preserveRatio="true" />
+            <Button fx:id="boughtLocalProduct" layoutX="679.0" layoutY="443.0" mnemonicParsing="false" onMouseClicked="#safeLocalProduct" prefHeight="67.0" prefWidth="206.0" stylesheets="@../fullpackstyling.css" text="I BOUGHT A LOCAL PRODUCT" />
+            <Text fx:id="textfield" layoutX="262.0" layoutY="439.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="374.93670654296875">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font></Text>
+         </children></Pane>
+   </children>
+</AnchorPane>

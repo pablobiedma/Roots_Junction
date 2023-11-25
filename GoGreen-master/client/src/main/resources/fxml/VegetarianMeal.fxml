@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" style="-fx-background-color: #fff;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="groupxii.client.controllers.VegetarianMealController">
+   <children>
+      <Pane prefHeight="127.0" prefWidth="904.0" style="-fx-background-color: #2B8E00;">
+         <children>
+            <ImageView fitHeight="103.0" fitWidth="120.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/gogreen logo groter.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+            <Label alignment="CENTER" layoutX="161.0" layoutY="50.0" prefHeight="23.0" prefWidth="173.0" text="For a better planet" textFill="WHITE">
+               <font>
+                  <Font name="Segoe UI" size="18.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="56.0" fitWidth="52.0" layoutX="799.0" layoutY="35.0" onMouseClicked="#btnBack" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/icons8-home-64.png" />
+               </image>
+            </ImageView>
+            <Label alignment="CENTER" layoutX="144.0" layoutY="64.0" prefHeight="23.0" prefWidth="206.0" text="The change starts with you!" textFill="WHITE">
+               <font>
+                  <Font name="Segoe UI" size="12.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane layoutY="125.0" prefHeight="534.0" prefWidth="904.0">
+         <children>
+            <Button fx:id="btnCalculate" alignment="CENTER" contentDisplay="TOP" graphicTextGap="0.0" layoutX="422.0" layoutY="436.0" mnemonicParsing="false" onMouseClicked="#calculateMeal" prefHeight="64.0" prefWidth="200.0" stylesheets="@../fullpackstyling.css" text="Calculate">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Button>
+            <Slider fx:id="sliderGoodFood" layoutX="422.0" layoutY="246.0" majorTickUnit="50.0" max="500.0" prefHeight="37.0" prefWidth="415.0" showTickLabels="true" showTickMarks="true" />
+            <Slider fx:id="sliderBadFood" layoutX="422.0" layoutY="333.0" majorTickUnit="50.0" max="500.0" prefHeight="37.0" prefWidth="415.0" showTickLabels="true" showTickMarks="true" />
+            <ChoiceBox fx:id="choiceBoxGoodFood" layoutX="77.0" layoutY="159.0" prefHeight="20" prefWidth="200" />
+            <ChoiceBox fx:id="choiceBoxBadFood" layoutX="630.0" layoutY="159.0" prefHeight="20" prefWidth="200" />
+            <Text layoutX="80.0" layoutY="112.0" strokeType="OUTSIDE" strokeWidth="0.0" text="I ate..." textAlignment="CENTER" wrappingWidth="193.93243408203125">
+               <font>
+                  <Font name="Segoe UI Bold" size="46.0" />
+               </font>
+            </Text>
+            <Text layoutX="584.0" layoutY="112.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Instead of..." textAlignment="CENTER" wrappingWidth="291.53240966796875">
+               <font>
+                  <Font name="Segoe UI Bold" size="46.0" />
+               </font>
+            </Text>
+            <Text layoutX="422.0" layoutY="236.0" strokeType="OUTSIDE" strokeWidth="0.0" text="How much grams good food did you eat?" textAlignment="CENTER" wrappingWidth="415.0000047683716">
+               <font>
+                  <Font name="Segoe UI Bold" size="20.0" />
+               </font>
+            </Text>
+            <Text layoutX="461.0" layoutY="323.0" strokeType="OUTSIDE" strokeWidth="0.0" text="And how much grams bad food?" textAlignment="CENTER" wrappingWidth="336.3323974609375">
+               <font>
+                  <Font name="Segoe UI Bold" size="20.0" />
+               </font>
+            </Text>
+            <Text fx:id="reducedCo2Text" fill="#2b8e00" layoutX="422.0" layoutY="408.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="415.0000047683716">
+               <font>
+                  <Font size="18.0" />
+               </font></Text>
+            <ListView fx:id="eatenMealsListView" layoutX="48.0" layoutY="229.0" prefHeight="255.0" prefWidth="328.0" />
+            <Button fx:id="btnSafeMeal" alignment="CENTER" contentDisplay="TOP" graphicTextGap="0.0" layoutX="637.0" layoutY="436.0" mnemonicParsing="false" onMouseClicked="#safeMeal" prefHeight="64.0" prefWidth="200.0" stylesheets="@../fullpackstyling.css" text="Save Meal">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Button>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,43 @@
+cache:
+  paths:
+  - .m2/
+
+variables:
+  MAVEN_OPTS: "-Dmaven.repo.local=.m2"
+  DB_ADDRESS: "mongo"
+  DB_PORT: "27017"
+
+image:   maven:latest
+
+stages:
+- build
+- test-server
+- test-client
+- code-analysis
+
+build:
+  stage: build
+  script:
+  - mvn clean install -Dmaven.test.skip=true
+
+test-server:
+  services:
+  - mongo:latest
+  stage: test-server
+  script:
+  - cd server;
+    echo "JUrhwXKThxBj0F3BJ1slCvta4qRQAoZEo/98TabGIHES+BLp/ok3+nsvzF8h/X+9K7gjn6VbYv6OrNiGxuGofLaZg1yqeptSK5L0lx2QWPC+AhT/iebxiqVESXM3RrSro+KfA4fk6bQJ0aL0bfF3QU4AjlqV4gl7/aDA9nv7I+EKIWqb0utDitd5VPyLNQ8tpRue4W0fhAx7btdgj5kebPjGDHL+Q9gEMX6ZJCq8wHzsPF8KyRnhl20n8wA+8" >key;
+    mvn test;
+
+test-client:
+    services:
+    - mongo:latest
+    stage: test-client
+    script:
+    - cd client; mvn test
+
+
+checkstyle:
+  stage: code-analysis
+  script:
+  - mvn  checkstyle:check
